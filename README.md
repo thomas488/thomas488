@@ -1,4 +1,4 @@
-## Olá, meu nome é Thomas 👋
+## Hello, my name is Thomas 👋
 
 <table align="center">
   <tr>
@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,nextjs,ts,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,nextjs,docker,postgres,mysql,githubactions&theme=dark" />
 </div>
 
 ---
