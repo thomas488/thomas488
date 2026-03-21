@@ -1,15 +1,21 @@
 ## Olá, meu nome é Thomas 👋
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=euthomasmg&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euthomasmg&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=euthomasmg&theme=dark&hide_border=true" />
 </div>
 
 <br>
 
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=euthomasmg&theme=dark&hide_border=true" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=euthomasmg&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euthomasmg&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
