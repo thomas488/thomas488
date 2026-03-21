@@ -18,8 +18,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/euthomasmg">GitHub</a> •
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">LinkedIn</a>
-</div>
